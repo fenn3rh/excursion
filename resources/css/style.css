@@ -1,0 +1,32 @@
+html {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    font-size: 50px;
+}
+
+.downloadLink {
+    color:aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
+.movieClip {
+    display: block;
+    margin: auto;
+}
+img {
+    display: block;
+    margin: auto;
+    padding-top: 25px;
+}
+.subtitle {
+    font-weight: 300;
+    font-size: 42px;
+}
+.copyright {
+    text-align: right;
+    color:gray
+}
